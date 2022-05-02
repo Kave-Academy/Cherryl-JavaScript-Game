@@ -1,0 +1,17 @@
+body {
+  background: rgb(194,104,84);
+  background: linear-gradient(90deg, rgba(194,104,84,1) 0%, rgba(233,148,210,1) 100%);
+  /* background: black; */
+}
+
+#canvas1{
+  border: 5px solid white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 900px;
+  height: 600px;
+  background: white;
+  /* opacity: 50%; */
+}
