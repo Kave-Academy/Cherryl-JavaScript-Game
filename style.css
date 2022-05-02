@@ -1,6 +1,6 @@
 body {
   background: rgb(194,104,84);
-  background: linear-gradient(90deg, rgb(194, 104, 84) 0%, #e994d2 100%);
+  background: linear-gradient(90deg, #c26a56 0%, rgba(233,148,210,1) 100%);
   /* background: black; */
 }
 
@@ -13,5 +13,5 @@ body {
   width: 900px;
   height: 600px;
   background: white;
-  /* opacity: 50%; */
+  font-family: 'Orbitron', sans-serif;
 }
